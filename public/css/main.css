@@ -1,0 +1,36 @@
+body {
+  background-color: aquamarine;
+  margin: auto;
+  font-family: fantasy;
+}
+
+h1 {
+  text-align: center;
+}
+
+.gallery {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 1px;
+      grid-auto-rows: minmax(100px, auto);
+      margin-left: 1vw;
+      margin-right: 1vw;
+      margin-bottom: 2vw;
+}
+
+.card {
+  margin: 1rem;
+}
+
+img {
+ width: 45vw;
+ height: auto;
+}
+
+img:hover {
+  
+}
+
+figcaption {
+  
+}
