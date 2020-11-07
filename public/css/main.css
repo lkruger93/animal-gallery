@@ -8,6 +8,8 @@ h1 {
   text-align: center;
 }
 
+/* it took much time.. but i figured the grid layout out */
+
 .gallery {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
@@ -22,15 +24,9 @@ h1 {
   margin: 1rem;
 }
 
+/* got all the image things figured out */
+
 img {
  width: 45vw;
  height: auto;
-}
-
-img:hover {
-  
-}
-
-figcaption {
-  
 }

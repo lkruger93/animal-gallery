@@ -19,9 +19,5 @@ animals.forEach(function(image){
 
 gallery.innerHTML = outputHTML;
 
-  // For each image ID, 
-  // 1. create an image card for each image that includes:
-  //      - a `<figure class="card">` container
-  //      - an `<img>` element including `src`, `alt`, `width` and `height` attributes
-  //      - a `<figcaption>` element containing photo credit and link to Unsplash source
-  // 2. append the `<figure>` card to the `outputHTML` variable you created 
+  // hallelujah is my word of the day!!!!
+  //i love when things work even though theyre confusing
